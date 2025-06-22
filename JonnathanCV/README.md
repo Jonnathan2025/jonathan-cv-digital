@@ -8,7 +8,7 @@ Este proyecto es una versión digital de mi currículum, desarrollada con HTML5,
 
 ## 🚀 Enlaces del proyecto
 
-- 🔗 [Repositorio en GitHub](https://github.com/tuusuario/mi-cv-digital)
+- 🔗 https://github.com/Jonnathan2025/jonathan-cv-digital.git
 - 🌐 [Sitio en GitHub Pages](https://tuusuario.github.io/mi-cv-digital)
 
 ## 🛠️ Tecnologías usadas
